@@ -36,11 +36,11 @@ The system operates as follows:
 5. **Reset**: Pressing the button on the Raspberry Pi again sends a different UDP message to the ESP8266 and turns off all RGBW LEDs. The ESP8266 stops collecting and sending sensor readings, turns off its onboard LED, and both devices return to their initial state.
 
 ### Raspberry Pi Flowchart ###
-![Raspberry Pi Flowchart](Reference/Flowchart_RPi.png)
+![Raspberry Pi Flowchart](Reference/flowchart_RPi.png)
 
 ### ESP8266 Flowchart
 
-![ESP8266 Flowchart](Reference/Flowchart_ESP.png)
+![ESP8266 Flowchart](Reference/flowchart_ESP.png)
 
 ## Schematic Description
 
