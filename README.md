@@ -57,7 +57,7 @@ The system operates as follows:
 2. The white LED is connected to the GPIO 18 pin with a resistor.
 3. Three LEDs (green, yellow, red) are connected to the GPIO 17, 27, and 22 with resistors.
 
-![schematic](Reference/schematic_Raspberry.png)
+![schematic](Reference/schematic_RaspberryPi.png)
 
 
 
